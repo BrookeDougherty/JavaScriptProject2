@@ -5,3 +5,10 @@ video {
   width: 100%;
   height: auto;
 }
+
+button {
+  color: red;
+  font-size: large;
+  font-weight: bold;
+  background-color: black;
+}
